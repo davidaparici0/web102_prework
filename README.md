@@ -25,14 +25,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<iframe src="https://www.loom.com/share/e6294b027f5c4980b7306afe63faaa79?sid=89490369-fa35-4fb1-a1cb-4aa18ac6453a" 
-        title="Video Walkthrough" 
-        width="600" 
-        height="400" 
-        frameborder="0" 
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-        allowfullscreen>
-</iframe>
+[![Video Walkthrough](https://via.placeholder.com/600x400.png?text=Video+Walkthrough)](https://www.loom.com/share/e6294b027f5c4980b7306afe63faaa79?sid=89490369-fa35-4fb1-a1cb-4aa18ac6453a)
 
 
 <!-- Replace this with whatever GIF tool you used! -->
