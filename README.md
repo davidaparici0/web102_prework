@@ -25,12 +25,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<a href="https://www.loom.com/share/e6294b027f5c4980b7306afe63faaa79?sid=c2d1f21f-a2c2-4959-b12d-fd86e89c03e0" target="_blank" title="Video Walkthrough">
-    Watch the Video Walkthrough
-</a>
+<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with Loom
+GIF created with LICEcap
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
