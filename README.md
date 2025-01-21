@@ -30,7 +30,7 @@ Here's a walkthrough of implemented features:
 </a>
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with LICEcap
+GIF created with Loom
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
