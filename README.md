@@ -25,8 +25,9 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-[![Video Walkthrough](https://via.placeholder.com/600x400.png?text=Video+Walkthrough)](https://www.loom.com/share/e6294b027f5c4980b7306afe63faaa79?sid=89490369-fa35-4fb1-a1cb-4aa18ac6453a)
-
+<a href="https://www.loom.com/share/e6294b027f5c4980b7306afe63faaa79?sid=c2d1f21f-a2c2-4959-b12d-fd86e89c03e0" target="_blank" title="Video Walkthrough">
+    Watch the Video Walkthrough
+</a>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Loom
